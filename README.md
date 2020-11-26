@@ -337,5 +337,5 @@ Dari statement diatas, kita akan diminta untuk menginput nama, nim, nilai tugas,
 Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke dalam list 'nilai'
 
 Terakhir kita akan mencetak hasil dari program yang telah dibuat.
-![hasil2](Gambar/hasil2.png)
+![hasil2](Gambar/Hasil2.png)
 ## Terimakasih
