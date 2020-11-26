@@ -94,7 +94,7 @@ print("==================================================================")
 Setelah ini selanjutnya kita akan membuat flowcart Sebagai Berikut
 
 
-![flowcart2](Gambar/flowchat.png)
+![flowcart2](Gambar/Flowchat.png)
 
 ## Pertemuan 9 Modul 5
 Pada Pertemuan 9 Modul 5 dosen memberikan saya tugas untuk membuat program sederhana yang akan menampilkan daftar nilai mahasiswa. berikut soal yang dosen berikan:
